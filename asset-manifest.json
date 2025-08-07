@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ShantanuPiyush/account-ledger-manager-assignment.git/static/css/main.f855e6bc.css",
-    "main.js": "/ShantanuPiyush/account-ledger-manager-assignment.git/static/js/main.77c0ffac.js",
-    "static/js/453.034349a9.chunk.js": "/ShantanuPiyush/account-ledger-manager-assignment.git/static/js/453.034349a9.chunk.js",
-    "index.html": "/ShantanuPiyush/account-ledger-manager-assignment.git/index.html",
-    "main.f855e6bc.css.map": "/ShantanuPiyush/account-ledger-manager-assignment.git/static/css/main.f855e6bc.css.map",
-    "main.77c0ffac.js.map": "/ShantanuPiyush/account-ledger-manager-assignment.git/static/js/main.77c0ffac.js.map",
-    "453.034349a9.chunk.js.map": "/ShantanuPiyush/account-ledger-manager-assignment.git/static/js/453.034349a9.chunk.js.map"
+    "main.css": "/account-ledger-manager/static/css/main.f855e6bc.css",
+    "main.js": "/account-ledger-manager/static/js/main.5679e618.js",
+    "static/js/453.034349a9.chunk.js": "/account-ledger-manager/static/js/453.034349a9.chunk.js",
+    "index.html": "/account-ledger-manager/index.html",
+    "main.f855e6bc.css.map": "/account-ledger-manager/static/css/main.f855e6bc.css.map",
+    "main.5679e618.js.map": "/account-ledger-manager/static/js/main.5679e618.js.map",
+    "453.034349a9.chunk.js.map": "/account-ledger-manager/static/js/453.034349a9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.77c0ffac.js"
+    "static/js/main.5679e618.js"
   ]
 }
